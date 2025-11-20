@@ -97,6 +97,7 @@ Shows which months generated maximum revenue.
 📌 2. City-wise Sales (Bar Chart)
 
 Helpful for geographic business decisions.
+
 <img width="640" height="480" alt="City Wise Total Sales($)" src="https://github.com/user-attachments/assets/99e02565-39ab-4773-9bd3-75fdc25936c8" />
 
 
