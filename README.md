@@ -88,19 +88,27 @@ all_data["City"] = all_data["Purchase Address"].apply(lambda x: x.split(",")[1].
 
  📊 Visualizations
 
-📌 1. Monthly Sales Trend (Line Chart)
+📌 1. Monthly Sales Trend 
 
-Shows which months generated maximum revenue.
 
 <img width="640" height="480" alt="Months Wise Sales ($)" src="https://github.com/user-attachments/assets/83b9636b-8c5f-4d55-ac76-6e0223c854c0" />
 
-📌 2. City-wise Sales (Bar Chart)
+📌 2. City-wise Sales 
 
-Helpful for geographic business decisions.
 
 <img width="640" height="480" alt="City Wise Total Sales($)" src="https://github.com/user-attachments/assets/99e02565-39ab-4773-9bd3-75fdc25936c8" />
 
+📌 3. Number of ordrs each hour
 
+<img width="640" height="480" alt="Number of ordrs each hour-Copy1" src="https://github.com/user-attachments/assets/d748894b-3104-4472-a19a-e62cbe087a75" />
+
+📌 4. Quantity of Products Ordered
+
+<img width="640" height="480" alt="Quantity of Products Ordered" src="https://github.com/user-attachments/assets/fd8696fe-81dc-49ff-b85b-c9f6f97d8907" />
+
+📌 5. Quantity of Products Ordered and thei price
+
+<img width="640" height="480" alt="Quantity of Products Ordered and thei price" src="https://github.com/user-attachments/assets/6c583bd9-60e7-413c-9ec8-47f02dc8e5bf" />
 
 🚀 Conclusion
 
